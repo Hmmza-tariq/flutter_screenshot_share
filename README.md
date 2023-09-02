@@ -1,16 +1,9 @@
-# screenshot_share
+How to capture and share screenshots in flutter? Android + IOS (2023) 
+youtube link: https://youtu.be/dSmKS5qfebc
 
-A new Flutter project.
+packages: 
+share_files_and_screenshot_widgets: https://pub.dev/packages/share_files_and_screenshot_widgets
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+gituhub: https://github.com/Hmmza-tariq
+buy me a coffee: https://www.buymeacoffee.com/hmmzatariq
